@@ -1,0 +1,11 @@
+services:
+  traveleta:
+    build: .
+    container_name: traveleta
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NTA_API_KEY=${NTA_API_KEY}
+      - PORT=3000
+      - CACHE_TTL_SECONDS=30

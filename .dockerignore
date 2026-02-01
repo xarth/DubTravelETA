@@ -1,0 +1,6 @@
+data/gtfs/
+.env
+.git
+__pycache__
+*.pyc
+scripts/

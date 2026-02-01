@@ -1,0 +1,1598 @@
+[
+  {
+    "routeShortName": "1",
+    "routeLongName": "Sandymount - O'Connell Street - Santry",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Shaw street"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Shanard Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "4",
+    "routeLongName": "Monkstown Avenue - Heuston Station",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Monkstown Ave"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Heuston Station"
+      }
+    ]
+  },
+  {
+    "routeShortName": "6",
+    "routeLongName": "Howth Dart Stn - Lower Abbey Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Howth Station"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Abbey St Lower"
+      }
+    ]
+  },
+  {
+    "routeShortName": "7",
+    "routeLongName": "Brides Glen Luas - Mountjoy Square",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Brides Glen"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Mountjoy Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "11",
+    "routeLongName": "Phoenix Park - Sandyford Business District",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Sandyford B.D."
+      },
+      {
+        "directionId": "1",
+        "headsign": "Phoenix Pk"
+      }
+    ]
+  },
+  {
+    "routeShortName": "13",
+    "routeLongName": "Grange Castle - Harristown",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Grange Castle"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Mountjoy Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "14",
+    "routeLongName": "Dundrum Luas Stn - Ardlea Rd (Beaumont)",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dundrum Luas"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Beaumont"
+      }
+    ]
+  },
+  {
+    "routeShortName": "15",
+    "routeLongName": "Ballycullen Road - Clongriffin",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ballycullen Road"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Clongriffin"
+      }
+    ]
+  },
+  {
+    "routeShortName": "16",
+    "routeLongName": "Ballinteer - Dublin Airport",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ballinteer"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Dublin Airport"
+      }
+    ]
+  },
+  {
+    "routeShortName": "19",
+    "routeLongName": "Parnell Square West - Dublin Airport",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Airport"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Merrion Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "23",
+    "routeLongName": "Merrion Square - Charlestown SC",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Charlestown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Merrion Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "24",
+    "routeLongName": "Merrion Square - Dublin Airport",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dublin Airport"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Merrion Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "27",
+    "routeLongName": "Jobstown - Clare Hall",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Jobstown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Eden Quay"
+      }
+    ]
+  },
+  {
+    "routeShortName": "33",
+    "routeLongName": "Balbriggan - Lower Abbey St",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Balbriggan"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Abbey St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "37",
+    "routeLongName": "Blanchardstown Shopping Centre - Wilton Terrace",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Blanchardstown SC"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Wilton Terrace"
+      }
+    ]
+  },
+  {
+    "routeShortName": "38",
+    "routeLongName": "Damastown - Burlington Road",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Damastown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Burlington Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "39",
+    "routeLongName": "Ongar - Burlington Rd",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ongar"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Burlington Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "41",
+    "routeLongName": "Swords Manor - Lower Abbey Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Swords Manor"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Abbey St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "42",
+    "routeLongName": "Sand's Hotel Portmarnock - Eden Quay",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Portmarnock"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Talbot Street"
+      }
+    ]
+  },
+  {
+    "routeShortName": "43",
+    "routeLongName": "Talbot Street - Swords Business Park",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Swords Bus.Pk"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Talbot Street"
+      }
+    ]
+  },
+  {
+    "routeShortName": "44",
+    "routeLongName": "Enniskerry - DCU",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Enniskerry"
+      },
+      {
+        "directionId": "1",
+        "headsign": "DCU"
+      }
+    ]
+  },
+  {
+    "routeShortName": "47",
+    "routeLongName": "Poolbeg Street - Belarmine",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Belarmine"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Poolbeg St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "52",
+    "routeLongName": "Intel - Ringsend",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Leixlip Intel"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Ringsend Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "53",
+    "routeLongName": "Dublin Ferryport - Talbot St",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dublin Ferryport"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Talbot Street"
+      }
+    ]
+  },
+  {
+    "routeShortName": "60",
+    "routeLongName": "Forbes Street - Tallaght",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Red Cow Luas"
+      },
+      {
+        "directionId": "1",
+        "headsign": "John Rogerson Qy"
+      }
+    ]
+  },
+  {
+    "routeShortName": "65",
+    "routeLongName": "Poolbeg Street - Blessington/Ballymore",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ballyknockan"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Poolbeg St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "68",
+    "routeLongName": "Newcastle / Greenogue Business Pk - Hawkins St",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Greenogue"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Poolbeg St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "69",
+    "routeLongName": "Rathcoole - Hawkins St",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Rathcoole"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Poolbeg St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "70",
+    "routeLongName": "Dunboyne - Burlington Rd",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dunboyne"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Burlington Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "74",
+    "routeLongName": "Dundrum Luas - Eden Quay",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dundrum"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Eden Quay"
+      }
+    ]
+  },
+  {
+    "routeShortName": "80",
+    "routeLongName": "Liffey Valley SC - Palmerston Park",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Palmerston Park"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Liffey Valley"
+      }
+    ]
+  },
+  {
+    "routeShortName": "82",
+    "routeLongName": "Irishtown - Kiltipper",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Kiltipper Way"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Sean Moore Rd"
+      }
+    ]
+  },
+  {
+    "routeShortName": "99",
+    "routeLongName": "Phoenix Park - Phoenix Park",
+    "directions": [
+      {
+        "directionId": "1",
+        "headsign": "Visitor Centre"
+      }
+    ]
+  },
+  {
+    "routeShortName": "116",
+    "routeLongName": "Whitechurch - Parnell Square",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Whitechurch"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Parnell Sq"
+      }
+    ]
+  },
+  {
+    "routeShortName": "118",
+    "routeLongName": "Kilternan - Eden Quay",
+    "directions": [
+      {
+        "directionId": "1",
+        "headsign": "Eden Quay"
+      }
+    ]
+  },
+  {
+    "routeShortName": "120",
+    "routeLongName": "Ashtown Station - Parnell St",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ashtown Stn"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Parnell St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "122",
+    "routeLongName": "Drimnagh - Ashington",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Drimnagh Road"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Ashington"
+      }
+    ]
+  },
+  {
+    "routeShortName": "130",
+    "routeLongName": "Talbot Street - Castle Avenue",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Castle Ave"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Talbot Street"
+      }
+    ]
+  },
+  {
+    "routeShortName": "142",
+    "routeLongName": "Portmarnock - UCD (Belfield)",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "UCD"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Coast Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "150",
+    "routeLongName": "Rossmore - Hawkins Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Limekiln Avenue"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Hawkins Street"
+      }
+    ]
+  },
+  {
+    "routeShortName": "151",
+    "routeLongName": "Foxborough (Balgaddy Rd) - Docklands (East Rd)",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Foxborough"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Docklands"
+      }
+    ]
+  },
+  {
+    "routeShortName": "11B",
+    "routeLongName": "Phoenix Park - Donnybrook",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Donnybrook Stadium"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Phoenix Pk"
+      }
+    ]
+  },
+  {
+    "routeShortName": "15A",
+    "routeLongName": "Merrion Square - Limekiln Avenue",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Limekiln Ave"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Merrion Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "15B",
+    "routeLongName": "Merrion Square - Stocking Avenue",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Stocking Ave"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Merrion Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "15D",
+    "routeLongName": "Merrion Square - Whitechurch",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Whitechurch"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Merrion Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "16D",
+    "routeLongName": "Airport - Beaumont Village - Ballinteer not",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ballinteer"
+      }
+    ]
+  },
+  {
+    "routeShortName": "27A",
+    "routeLongName": "Blunden Drive - Eden Quay",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Blunden Drive"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Eden Quay"
+      }
+    ]
+  },
+  {
+    "routeShortName": "27B",
+    "routeLongName": "Eden Quay - Harristown",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Harristown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Eden Quay"
+      }
+    ]
+  },
+  {
+    "routeShortName": "27X",
+    "routeLongName": "Clare Hall - UCD Belfield",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Clare Hall"
+      },
+      {
+        "directionId": "1",
+        "headsign": "UCD"
+      }
+    ]
+  },
+  {
+    "routeShortName": "32X",
+    "routeLongName": "UCD Belfield - Malahide",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "UCD"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Malahide"
+      }
+    ]
+  },
+  {
+    "routeShortName": "33D",
+    "routeLongName": "Portrane - St Stephens Green",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Portrane"
+      },
+      {
+        "directionId": "1",
+        "headsign": "St Stephen's Green"
+      }
+    ]
+  },
+  {
+    "routeShortName": "33E",
+    "routeLongName": "Lwr Abbey St - Portrane - Skerries",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Skerries"
+      }
+    ]
+  },
+  {
+    "routeShortName": "33X",
+    "routeLongName": "Skerries - Custom House Quay / St Stephen Green",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Balbriggan"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Merrion Square W"
+      }
+    ]
+  },
+  {
+    "routeShortName": "38A",
+    "routeLongName": "Damastown via Navan Rd - Burlington Rd",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Damastown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Burlington Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "38B",
+    "routeLongName": "Damastown via Ballycoolin Ind Est - Burlington Rd",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Damastown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "O'Connell Street"
+      }
+    ]
+  },
+  {
+    "routeShortName": "38D",
+    "routeLongName": "IBM Damastown via N3 - Burlington Rd",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Damastown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Burlington Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "39A",
+    "routeLongName": "Ongar - UCD Belfield",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ongar"
+      },
+      {
+        "directionId": "1",
+        "headsign": "UCD"
+      }
+    ]
+  },
+  {
+    "routeShortName": "39X",
+    "routeLongName": "Ongar - Burlington Road",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ongar"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Burlington Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "40D",
+    "routeLongName": "Tyrrelstown - Parnell Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Tyrrelstown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Parnell St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "40E",
+    "routeLongName": "Broombridge Luas - Tyrrelstown",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Tyrrelstown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Broombridge Luas"
+      }
+    ]
+  },
+  {
+    "routeShortName": "41B",
+    "routeLongName": "Rolestown - Lower Abbey Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Rolestown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Abbey St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "41C",
+    "routeLongName": "Swords Manor Via River Valley - Lower Abbey St",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Swords Manor"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Abbey St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "41D",
+    "routeLongName": "Swords Business Park - Lwr Abbey St",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Swords Bus.Pk"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Abbey St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "41X",
+    "routeLongName": "Swords - UCD Belfield",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Swords Manor"
+      },
+      {
+        "directionId": "1",
+        "headsign": "UCD"
+      }
+    ]
+  },
+  {
+    "routeShortName": "42D",
+    "routeLongName": "Portmarnock - DCU",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Strand Road"
+      },
+      {
+        "directionId": "1",
+        "headsign": "DCU"
+      }
+    ]
+  },
+  {
+    "routeShortName": "44B",
+    "routeLongName": "Glencullen - Dundrum Luas",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Glencullen"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Dundrum Luas"
+      }
+    ]
+  },
+  {
+    "routeShortName": "44D",
+    "routeLongName": "Dundrum - OCS",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dundrum Luas"
+      },
+      {
+        "directionId": "1",
+        "headsign": "O'Connell Street"
+      }
+    ]
+  },
+  {
+    "routeShortName": "51D",
+    "routeLongName": "Aston Quay - Clondalkin",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Woodford Hill"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Waterloo Rd"
+      }
+    ]
+  },
+  {
+    "routeShortName": "56A",
+    "routeLongName": "Tallaght - Ringsend Rd",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "The Square"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Ringsend Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "65A",
+    "routeLongName": "Route 65A Tallaght Sq - Blessington",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Blessington"
+      },
+      {
+        "directionId": "1",
+        "headsign": "The Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "65B",
+    "routeLongName": "Poolbeg Street - Citywest",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Citywest"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Poolbeg St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "68A",
+    "routeLongName": "Hawkins Street - Bulfin Road",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Bulfin Road"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Poolbeg St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "69X",
+    "routeLongName": "Rathcoole - Hawkins St",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Rathcoole"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Poolbeg St"
+      }
+    ]
+  },
+  {
+    "routeShortName": "70D",
+    "routeLongName": "Dunboyne - DCU",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dunboyne"
+      },
+      {
+        "directionId": "1",
+        "headsign": "DCU"
+      }
+    ]
+  },
+  {
+    "routeShortName": "77A",
+    "routeLongName": "Citywest - Ringsend",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Citywest"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Ringsend Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "77X",
+    "routeLongName": "Citywest - UCD Belfield",
+    "directions": [
+      {
+        "directionId": "1",
+        "headsign": "UCD"
+      }
+    ]
+  },
+  {
+    "routeShortName": "7A",
+    "routeLongName": "Loughlinstown - Mountjoy Sq",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Loughlinstown Pk"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Mountjoy Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "7B",
+    "routeLongName": "Shankill - Mountjoy Square",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Shankill"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Mountjoy Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "7D",
+    "routeLongName": "Dalkey - Mountjoy Square",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dalkey"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Mountjoy Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "7E",
+    "routeLongName": "Mountjoy Square - Dalkey",
+    "directions": [
+      {
+        "directionId": "1",
+        "headsign": "Mountjoy Square"
+      }
+    ]
+  },
+  {
+    "routeShortName": "C1",
+    "routeLongName": "Adamstown Stn - Sandymount",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Adamstown Station"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Sandymount"
+      }
+    ]
+  },
+  {
+    "routeShortName": "C2",
+    "routeLongName": "Adamstown Stn - Sandymount",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Adamstown Station"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Sandymount"
+      }
+    ]
+  },
+  {
+    "routeShortName": "C3",
+    "routeLongName": "Maynooth - Ringsend",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Maynooth"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Ringsend Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "C4",
+    "routeLongName": "Maynooth - Ringsend",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Maynooth"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Ringsend Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "C5",
+    "routeLongName": "Maynooth - Ringsend Night Service",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Maynooth"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Ringsend Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "C6",
+    "routeLongName": "Maynooth - Celbridge - Ringsend Night Service",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Maynooth"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Ringsend Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "E1",
+    "routeLongName": "Ballywaltrim - Northwood",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ballywaltrim"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Northwood"
+      }
+    ]
+  },
+  {
+    "routeShortName": "E2",
+    "routeLongName": "Dun Laoghaire - Harristown",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dun Laoghaire"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Harristown"
+      }
+    ]
+  },
+  {
+    "routeShortName": "F1",
+    "routeLongName": "The Square Tallaght - IKEA",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Tallaght"
+      },
+      {
+        "directionId": "1",
+        "headsign": "IKEA Ballymun"
+      }
+    ]
+  },
+  {
+    "routeShortName": "F2",
+    "routeLongName": "Charlestown SC - Rossmore",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Rossmore Road"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Charlestown"
+      }
+    ]
+  },
+  {
+    "routeShortName": "F3",
+    "routeLongName": "Charlestown SC - Limekiln Avenue",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Limekiln Avenue"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Charlestown"
+      }
+    ]
+  },
+  {
+    "routeShortName": "G1",
+    "routeLongName": "Red Cow LUAS - Spencer Dock",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Red Cow Luas"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Spencer Dock"
+      }
+    ]
+  },
+  {
+    "routeShortName": "G2",
+    "routeLongName": "Liffey Valley SC - Spencer Dock",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Liffey Valley SC"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Spencer Dock"
+      }
+    ]
+  },
+  {
+    "routeShortName": "H1",
+    "routeLongName": "Baldoyle - Lower Abbey Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Baldoyle"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Abbey St Lower"
+      }
+    ]
+  },
+  {
+    "routeShortName": "H2",
+    "routeLongName": "Malahide - Lower Abbey Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Malahide"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Abbey St Lower"
+      }
+    ]
+  },
+  {
+    "routeShortName": "H3",
+    "routeLongName": "Howth Summit - Lower Abbey Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Howth Summit"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Abbey St Lower"
+      }
+    ]
+  },
+  {
+    "routeShortName": "L12",
+    "routeLongName": "Ballywaltrim - Bray Dart Station",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Ballywaltrim"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Bray Station"
+      }
+    ]
+  },
+  {
+    "routeShortName": "L14",
+    "routeLongName": "Southern Cross Road - Palermo",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Southern Cross"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Cherrywood"
+      }
+    ]
+  },
+  {
+    "routeShortName": "L25",
+    "routeLongName": "Dun Laoghaire - Dundrum Town Centre",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Dun Laoghaire"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Dundrum"
+      }
+    ]
+  },
+  {
+    "routeShortName": "L53",
+    "routeLongName": "Liffey Valley - Adamstown Stn",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Liffey Valley SC"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Adamstown Station"
+      }
+    ]
+  },
+  {
+    "routeShortName": "L54",
+    "routeLongName": "River Forest - Red Cow Luas",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "River Forest"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Red Cow Luas"
+      }
+    ]
+  },
+  {
+    "routeShortName": "L58",
+    "routeLongName": "River Forest - Castletown - Hazelhatch Stn",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Hazelhatch Station"
+      },
+      {
+        "directionId": "1",
+        "headsign": "River Forest"
+      }
+    ]
+  },
+  {
+    "routeShortName": "L59",
+    "routeLongName": "River Forest - Celbridge - Hazelhatch",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Hazelhatch Station"
+      },
+      {
+        "directionId": "1",
+        "headsign": "River Forest"
+      }
+    ]
+  },
+  {
+    "routeShortName": "L89",
+    "routeLongName": "Broombridge Luas - Toberburr",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Rivermeade"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Broombridge"
+      }
+    ]
+  },
+  {
+    "routeShortName": "N4",
+    "routeLongName": "Blanchardstown - Point Village",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Blanchardstown SC"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Point Village"
+      }
+    ]
+  },
+  {
+    "routeShortName": "P29",
+    "routeLongName": "Adamstown Stn - Ringsend",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Adamstown Station"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Ringsend Road"
+      }
+    ]
+  },
+  {
+    "routeShortName": "S2",
+    "routeLongName": "Sean Moore Road - Heuston Station",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Irishtown"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Heuston Station"
+      }
+    ]
+  },
+  {
+    "routeShortName": "X1",
+    "routeLongName": "Kilcoole - Hawkins Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Kilcoole"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Hawkins Street"
+      }
+    ]
+  },
+  {
+    "routeShortName": "X2",
+    "routeLongName": "Newcastle - Hawkins Street",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Newcastle"
+      },
+      {
+        "directionId": "1",
+        "headsign": "Hawkins Street"
+      }
+    ]
+  },
+  {
+    "routeShortName": "X25",
+    "routeLongName": "Maynooth - Easton Rd - UCD",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Maynooth"
+      },
+      {
+        "directionId": "1",
+        "headsign": "UCD Belfield"
+      }
+    ]
+  },
+  {
+    "routeShortName": "X26",
+    "routeLongName": "Maynooth - Louisa Bridge - Leeson Street Lower",
+    "directions": [
+      {
+        "directionId": "1",
+        "headsign": "UCD Belfield"
+      }
+    ]
+  },
+  {
+    "routeShortName": "X27",
+    "routeLongName": "Salesian College - Aghards Rd - UCD",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Salesian College"
+      },
+      {
+        "directionId": "1",
+        "headsign": "UCD Belfield"
+      }
+    ]
+  },
+  {
+    "routeShortName": "X28",
+    "routeLongName": "Salesian College - Celbridge Main St - UCD",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Salesian College"
+      },
+      {
+        "directionId": "1",
+        "headsign": "UCD Belfield"
+      }
+    ]
+  },
+  {
+    "routeShortName": "X30",
+    "routeLongName": "Dodsboro - UCD",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Adamstown Station"
+      },
+      {
+        "directionId": "1",
+        "headsign": "UCD Belfield"
+      }
+    ]
+  },
+  {
+    "routeShortName": "X31",
+    "routeLongName": "River Forest - UCD Belfield",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "River Forest"
+      },
+      {
+        "directionId": "1",
+        "headsign": "UCD Belfield"
+      }
+    ]
+  },
+  {
+    "routeShortName": "X32",
+    "routeLongName": "Kildare Innovation Campus - UCD Belfield",
+    "directions": [
+      {
+        "directionId": "0",
+        "headsign": "Hewlett Packard"
+      },
+      {
+        "directionId": "1",
+        "headsign": "UCD Belfield"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "travel-eta",
+  "version": "1.0.0",
+  "description": "Dublin Bus real-time tracker for route 69 at stop 1471",
+  "main": "server.js",
+  "scripts": {
+    "download-gtfs": "node scripts/download-gtfs.js",
+    "parse-gtfs": "node scripts/parse-gtfs.js",
+    "setup": "npm run download-gtfs && npm run parse-gtfs",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "MIT"
+}

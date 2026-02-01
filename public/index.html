@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dublin Bus Tracker</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <h1>Dublin Bus Tracker</h1>
+        </div>
+        <div class="header-right">
+            <div class="live-indicator" id="live-indicator">
+                <span class="live-dot"></span>
+                <span id="last-updated">--:--:--</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Left panel: route browser + favorites -->
+        <nav id="nav-panel">
+            <div class="nav-tabs">
+                <button class="nav-tab active" data-tab="favorites">Favorites</button>
+                <button class="nav-tab" data-tab="browse">All Routes</button>
+            </div>
+
+            <!-- Favorites tab -->
+            <div class="tab-content active" id="tab-favorites">
+                <div id="favorites-list">
+                    <div class="empty-state">
+                        <p>No favorites yet</p>
+                        <p class="hint">Browse routes and click the star to add favorites</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Browse tab -->
+            <div class="tab-content" id="tab-browse">
+                <div class="search-box">
+                    <input type="text" id="route-search" placeholder="Search routes..." autocomplete="off">
+                </div>
+                <div id="routes-list"></div>
+            </div>
+        </nav>
+
+        <!-- Center: map -->
+        <div id="map-container">
+            <div id="map"></div>
+        </div>
+
+        <!-- Right panel: stop info + arrivals -->
+        <aside id="sidebar">
+            <div id="route-header" class="hidden">
+                <div class="route-header-row">
+                    <span class="route-badge-lg" id="active-route-badge">--</span>
+                    <div class="route-header-info">
+                        <span id="active-route-name">Select a route</span>
+                    </div>
+                    <button id="fav-btn" class="fav-btn" title="Add to favorites">&#9734;</button>
+                </div>
+            </div>
+
+            <div id="stop-select-panel" class="hidden">
+                <label>Stop</label>
+                <select id="stop-select"></select>
+            </div>
+
+            <div id="location-panel" class="hidden">
+                <label>Your Location</label>
+                <div class="location-controls">
+                    <button id="gps-btn" class="location-btn" title="Use my GPS location">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                            <circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/>
+                        </svg>
+                        GPS
+                    </button>
+                    <button id="map-locate-btn" class="location-btn" title="Click a point on the map">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                            <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/>
+                            <circle cx="12" cy="9" r="2.5"/>
+                        </svg>
+                        Map
+                    </button>
+                    <button id="clear-location-btn" class="location-btn location-btn-clear hidden" title="Clear location">&times;</button>
+                </div>
+                <div id="location-status" class="location-status"></div>
+            </div>
+
+            <div id="arrivals-container">
+                <h3>Arrivals</h3>
+                <div id="walking-time-summary" class="hidden">
+                    <span class="walk-icon">&#128694;</span>
+                    <span id="walk-time-text">--</span>
+                    <span class="walk-to-stop">to this stop</span>
+                </div>
+                <div id="arrivals-list">
+                    <div class="empty-state">
+                        <p>Select a route to get started</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="error-banner" class="hidden"></div>
+        </aside>
+    </main>
+
+    <footer>
+        <p>Data: <a href="https://www.transportforireland.ie" target="_blank">Transport for Ireland</a> (CC BY 4.0, National Transport Authority)</p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="/js/favorites.js"></script>
+    <script src="/js/map.js"></script>
+    <script src="/js/arrivals.js"></script>
+    <script src="/js/location.js"></script>
+    <script src="/js/app.js"></script>
+</body>
+</html>
