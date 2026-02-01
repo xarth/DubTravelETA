@@ -6,7 +6,7 @@ Deploy steps
 2. Create the .env file on the server:
 
 
-NTA_API_KEY=f2939f25cbda4e728df66e4b4cbca7f0
+NTA_API_KEY=<your key>
 3. Build and run:
 
 
