@@ -1,5 +1,5 @@
 This is all Vibe coded, use at your own risk.
-
+```
 Deploy steps
 1. Copy the project to your server (git clone, scp, whatever you prefer)
 
@@ -28,3 +28,4 @@ If Dublin Bus updates their routes, re-run the parse script locally and rebuild 
 python scripts/download_gtfs.py
 python scripts/parse_gtfs.py
 docker compose up -d --build
+```
